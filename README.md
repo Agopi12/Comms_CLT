@@ -1,4 +1,4 @@
-# Communication for analyticss - Cetral Limit Theorem
+# Communication for analytics - Cetral Limit Theorem
 
 This project is about demonstrating CLT and how regardless of the underlying distribution, we get an approximately normal distribution for the sample means with big enough sample size. The project does this by generating random realizations from a distribution through inverse cdf method. The realizations thus obtained are plotted as a histogram. 
 
